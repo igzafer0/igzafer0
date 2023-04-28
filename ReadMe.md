@@ -9,8 +9,8 @@ Merhaba ben Zafer,<br>2020 yılından beri Mobil Uygulama Geliştirici olarak ke
 
 # 📊 GitHub istatistiklerim:
 ![](https://github-readme-stats.vercel.app/api?username=igzafer0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=igzafer0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igzafer0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=igzafer0&theme=dark&hide_border=false)<br/>
 
 # 🔝 En Çok Çalıştığım Repolar
 ![](https://github-contributor-stats.vercel.app/api?username=igzafer0&limit=5&theme=dark&combine_all_yearly_contributions=true)
