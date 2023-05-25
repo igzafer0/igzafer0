@@ -1,5 +1,5 @@
 # Hakkımda:
-Merhaba ben Zafer,<br>2020 yılından beri Mobil Uygulama Geliştirici olarak kendimi geliştiriyorum.<br><br>Bu süreçte:<br><br>Java ve Kotlin ile Native Android Developer olarak<br>Dart (Flutter) Cross Platform Developer olarak birçok projede aktif olarak rol aldım.<br><br>Github hesabım üzerinden kendi geliştirdiğim veya katkıda bulunduğum projelere göz atabilirsiniz.
+Merhaba ben Zafer,<br>2020 yılından beri Mobil Uygulama Geliştirici olarak kendimi geliştiriyorum.<br><br>Bu süreçte:<br><br>Java ve Kotlin ile Native Android Developer olarak ve<br>Dart (Flutter) Cross Platform Developer olarak birçok projede aktif olarak rol aldım.<br><br>Github hesabım üzerinden kendi geliştirdiğim veya katkıda bulunduğum projelere göz atabilirsiniz.
 
 # 🌐 Sosyal Medya:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zafercetin0) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zaferkurumsal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14932277) 
